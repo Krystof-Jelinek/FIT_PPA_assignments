@@ -1,0 +1,7 @@
+(\c. ZERO
+((\a. a ( \b . ZERO (- b 2)
+        b
+        (- b 3)
+
+)(a))c) T F
+)

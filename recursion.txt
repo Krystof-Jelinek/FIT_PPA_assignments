@@ -1,0 +1,8 @@
+(λ f m n . AND (ZERO m) (ZERO n) 1 
+        (ZERO n
+            (+ m (f 0 (- m 1)))
+            (ZERO m
+                (+ n (f (- n 1) 0))
+                (+ (f (- m 1) n )(f m (- n 1)))
+            )
+        ))
