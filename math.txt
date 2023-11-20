@@ -1,1 +1,0 @@
-(λ x y s z . y s (y s (x (y s) (x (y s) z))))

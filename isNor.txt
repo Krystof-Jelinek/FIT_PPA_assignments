@@ -1,1 +1,0 @@
-(λ x . (λ x y . x y F) ((λ x y . x y F) (x T T F T) (x T F F T)) ((λ x y . x y F) (x F T F T) (x F F T F)))

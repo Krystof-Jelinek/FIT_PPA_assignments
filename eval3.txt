@@ -1,5 +1,0 @@
-(λ p . p p p ) ((λ a . c a l) ( (λ k . k k) ((λ i . i) o)))
-(λ p . p p p ) ((λ a . c a l) ( (λ k . k k) o))
-(λ p . p p p ) ((λ a . c a l) ( o o ))
-(λ p . p p p ) (c (o o) l)
-(c (o o) l) (c (o o) l) (c (o o) l)

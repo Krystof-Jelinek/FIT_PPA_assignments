@@ -1,4 +1,0 @@
-(λ y x x . x ( x y y ) x) ( y x ) ( x x )
-(\ y a b . b ( b y y ) b) ( y x ) ( x x )
-(\ a b . b ( b ( y x ) ( y x ) ) b) ( x x )
-(\ b . b ( b ( y x ) ( y x ) ) b)
